@@ -4,11 +4,11 @@
 生成式人工智能是最近非常火的话题，也是目前人工智能着重发展的几个方向之一。李宏毅老师是台湾大学的教授，李老师的课程简单清晰、通俗易懂，适合初学者入门。本导论主要内容源于李宏毅老师的课程[《生成式人工智能导论》（2024春）](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring.php)，并在其基础上进行了一定的原创。
 
 
-<!-- ## 最新版PDF下载
+## 最新版PDF下载
 
-地址：https://github.com/datawhalechina/leedl-tutorial/releases
+地址：https://github.com/datawhalechina/leegenai-tutorial/releases
 
-国内地址(推荐国内读者使用)：https://pan.baidu.com/s/1DlG17PgvSuwT_wd5YW5WBg 提取码: xxer  -->
+国内地址(推荐国内读者使用)：链接: https://pan.baidu.com/s/1pcqYDbg9sJWPtxfAdVzOqw 提取码: hsi9 
 
 <!-- ## 内容介绍
 
