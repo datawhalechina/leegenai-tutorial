@@ -76,6 +76,7 @@ author = {Qi Wang，Yiyuan Yang，Ji Jiang},
 url = {https://github.com/datawhalechina/leegenai-tutorial}
 }
 ```
+若该教程对您有所帮助，可以在页面右上角点个Star :star: 支持一下，谢谢 :blush:！
 
 如果您需要转载该教程的内容，请注明出处：[https://github.com/datawhalechina/leegenai-tutorial](https://github.com/datawhalechina/leegenai-tutorial)。
 
