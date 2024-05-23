@@ -10,30 +10,23 @@
 
 国内地址(推荐国内读者使用)：链接: https://pan.baidu.com/s/1pcqYDbg9sJWPtxfAdVzOqw 提取码: hsi9 
 
-<!-- ## 内容介绍
+## 内容介绍
 
-* [x] **引言** @王琦
-* **深度学习** @王琦
-    *  [x] 局部最小值与鞍点
-    *  [x] 训练技巧
-    *  [x] 自适应学习率
-    *  [x] 分类问题损失函数
-    *  [x] 归一化
-* **卷积神经网络和自注意力机制** @王琦
-  *  [x] 卷积神经网络
-  *  [x] 自注意力机制
-* [x] **循环神经网络** @王琦
-* **Transformer** @王琦
-  *  [x] Transformer
-* **生成模型** @杨毅远
-	*  [x] 生成对抗网络基础
-	*  [x] 生成对抗网络理论与 Wasserstein 生成对抗网络
-	*  [x] 生成对抗网络的评估与有条件的生成对抗网络
-	*  [x] 循环生成对抗网络
-* **自监督学习** @王琦
-  *  [x] 芝麻街的模型
-  *  [x] BERT
-  *  [x] GPT-3 -->
+* 课程内容说明 @王琦
+
+  * [x] [課程規則](https://youtu.be/vCxyd_S4R24)  [course](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0223/0223_course.pdf)  [course](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0223/0223_course.pptx)
+
+  * [x] [第0講：課程說明](https://youtu.be/AVIKFXLCPY8)
+
+  * [x] [第1講：生成式AI是什麼？](https://youtu.be/JGtqpQXfJis)  [intro gai](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0223/0223_intro_gai.pdf)  [intro gai](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0223/0223_intro_gai.pptx)
+
+* 提示工程 ＆ Al 代理人 @杨毅远
+  * [ ] [第2講：今日的生成式人工智慧厲害在哪裡？從「工具」變為「工具人」](https://youtu.be/glBhOQ1_RkE) [universal](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0301/0301_universal.pdf)  [universal](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0301/0301_universal.pptx)
+  * [ ] [第3講：訓練不了人工智慧嗎？你可以訓練你自己](https://youtu.be/A3Yx35KrSN0)  [prompt part1](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0301/0301_prompt_part1.pdf) [prompt part1](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0301/0301_prompt_part1.pptx)
+
+* 生成策略＆從專才到通才 @江季
+  * [ ] [第4講：訓練不了人工智慧？你可以訓練你自己 (中)](https://youtu.be/lwe3_x50_uw)  [prompt part2](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0308/0308_prompt_part2.pdf) [prompt part2](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0308/0308_prompt_part2.pptx)
+
 
 ## 扩展资源
 - 对**深度学习**感兴趣的读者，可阅读[李宏毅深度学习教程](https://github.com/datawhalechina/leedl-tutorial)
