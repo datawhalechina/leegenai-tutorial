@@ -1,5 +1,6 @@
-# 李宏毅生成式人工智能教程LeeGenAI-Tutorial
+[![GitHub issues](https://img.shields.io/github/issues/datawhalechina/leegenai-tutorial)](https://github.com/datawhalechina/leegenai-tutorial/issues) [![GitHub stars](https://img.shields.io/github/stars/datawhalechina/leegenai-tutorial)](https://github.com/datawhalechina/leegenai-tutorial/stargazers) [![GitHub forks](https://img.shields.io/github/forks/datawhalechina/leegenai-tutorial)](https://github.com/datawhalechina/leegenai-tutorial/network) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdatawhalechina%2Fleegenai-tutorial%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey" /></a>
 
+# 李宏毅生成式人工智能教程LeeGenAI-Tutorial
 
 生成式人工智能是最近非常火的话题，也是目前人工智能着重发展的几个方向之一。李宏毅老师是台湾大学的教授，李老师的课程简单清晰、通俗易懂，适合初学者入门。本导论主要内容源于李宏毅老师的课程[《生成式人工智能导论》（2024春）](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring.php)，并在其基础上进行了一定的原创。
 
