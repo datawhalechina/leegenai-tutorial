@@ -73,7 +73,7 @@ url = {https://github.com/datawhalechina/leegenai-tutorial}
 @misc{wang2024leegenaitutorial,
 title = {Generative Artificial Intelligence Tutorial by Hung-yi Lee},
 year = {2024},
-author = {Qi Wang，Yiyuan Yang，Ji Jiang},
+author = {Qi Wang，Yiyuan Yang，Jingqi Kang},
 url = {https://github.com/datawhalechina/leegenai-tutorial}
 }
 ```
