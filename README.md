@@ -48,6 +48,11 @@
          <a href="https://yyysjz1997.github.io/">Yiyuan Yang</a> 
         <p> 牛津大学博士生<br>清华大学硕士</p>
       </td>
+       <td>
+         <a href="https://github.com/JohnJim0816"><img width="70" height="70" src="https://github.com/JohnJim0816.png?s=40" alt="pic"></a><br>
+         <a href="https://github.com/JohnJim0816">John Jim</a>
+         <p>北京大学硕士</p>
+      </td>
       <td>
          <a href="https://github.com/JohnJim0816"><img width="70" height="70" src="https://github.com/jodie-kang.png?s=40" alt="pic"></a><br>
          <a href="https://github.com/jodie-kang">Jingqi Kang</a>
