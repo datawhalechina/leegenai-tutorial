@@ -70,7 +70,7 @@
 @misc{wang2024leegenaitutorial,
 title = {李宏毅生成式人工智能教程},
 year = {2024},
-author = {王琦，杨毅远，康婧淇},
+author = {王琦，杨毅远，江季，康婧淇},
 url = {https://github.com/datawhalechina/leegenai-tutorial}
 }
 ```
@@ -78,7 +78,7 @@ url = {https://github.com/datawhalechina/leegenai-tutorial}
 @misc{wang2024leegenaitutorial,
 title = {Generative Artificial Intelligence Tutorial by Hung-yi Lee},
 year = {2024},
-author = {Qi Wang，Yiyuan Yang，Jingqi Kang},
+author = {Qi Wang，Yiyuan Yang，Ji Jiang，Jingqi Kang},
 url = {https://github.com/datawhalechina/leegenai-tutorial}
 }
 ```
