@@ -25,7 +25,7 @@
   * [x] [第2講：今日的生成式人工智慧厲害在哪裡？從「工具」變為「工具人」](https://youtu.be/glBhOQ1_RkE) [universal](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0301/0301_universal.pdf)  [universal](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0301/0301_universal.pptx)
   * [x] [第3講：訓練不了人工智慧嗎？你可以訓練你自己](https://youtu.be/A3Yx35KrSN0)  [prompt part1](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0301/0301_prompt_part1.pdf) [prompt part1](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0301/0301_prompt_part1.pptx)
 
-* 生成策略＆從專才到通才 @江季
+* 生成策略＆從專才到通才 @康婧淇
   * [ ] [第4講：訓練不了人工智慧？你可以訓練你自己 (中)](https://youtu.be/lwe3_x50_uw)  [prompt part2](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0308/0308_prompt_part2.pdf) [prompt part2](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0308/0308_prompt_part2.pptx)
 
 
@@ -49,9 +49,9 @@
         <p> 牛津大学博士生<br>清华大学硕士</p>
       </td>
       <td>
-         <a href="https://github.com/JohnJim0816"><img width="70" height="70" src="https://github.com/JohnJim0816.png?s=40" alt="pic"></a><br>
-         <a href="https://github.com/JohnJim0816">John Jim</a>
-         <p>北京大学硕士</p>
+         <a href="https://github.com/JohnJim0816"><img width="70" height="70" src="https://github.com/jodie-kang.png?s=40" alt="pic"></a><br>
+         <a href="https://github.com/jodie-kang">Jingqi Kang</a>
+         <p>东南大学硕士</p>
       </td>
     </tr>
   </tbody>
@@ -65,7 +65,7 @@
 @misc{wang2024leegenaitutorial,
 title = {李宏毅生成式人工智能教程},
 year = {2024},
-author = {王琦，杨毅远，江季},
+author = {王琦，杨毅远，康婧淇},
 url = {https://github.com/datawhalechina/leegenai-tutorial}
 }
 ```
