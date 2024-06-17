@@ -15,6 +15,52 @@
 
 * 课程内容说明 @王琦
 
+  * [x] [课程规则](https://youtu.be/vCxyd_S4R24)  [course](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0223/0223_course.pdf)  [course](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0223/0223_course.pptx)
+
+  * [x] [第0讲：课程说明](https://youtu.be/AVIKFXLCPY8)
+
+  * [x] [第1讲：生成式AI是什么？](https://youtu.be/JGtqpQXfJis)  [intro gai](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0223/0223_intro_gai.pdf)  [intro gai](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0223/0223_intro_gai.pptx)
+
+* 提示工程 ＆ Al 代理人 @杨毅远
+  * [x] [第2讲：今日的生成式人工智慧厉害在哪裡？从“工具”变为“工具人”](https://youtu.be/glBhOQ1_RkE) [universal](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0301/0301_universal.pdf)  [universal](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0301/0301_universal.pptx)
+  * [x] [第3讲：训练不了人工智慧吗？你可以训练你自己](https://youtu.be/A3Yx35KrSN0)  [prompt part1](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0301/0301_prompt_part1.pdf) [prompt part1](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0301/0301_prompt_part1.pptx)
+
+* 生成策略＆从专才到通才 @康婧淇
+  * [ ] [第4讲：训练不了人工智慧？你可以训练你自己 (中)](https://youtu.be/lwe3_x50_uw)  [prompt part2](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0308/0308_prompt_part2.pdf) [prompt part2](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0308/0308_prompt_part2.pptx)
+
+* 深度学习 & Transformer
+  * [ ] [第5讲：训练不了人工智慧？你可以训练你自己 (下) — 让语言彼此合作，把一个人活成一个团队](https://youtu.be/inebiWdQW-4)  [prompt part3](https://drive.google.com/file/d/1dMxMAewRtcUM2xktVm77txSk1leepgD1/view) [prompt part3](https://docs.google.com/presentation/d/1IY1izDUtRBTD9ATyObucetJZOU6koq3-/edit?usp=sharing&ouid=115046073158939078465&rtpof=true&sd=true)  
+  * [ ] [第6讲：大型语言模型修练史 — 第一阶段: 自我学习，累积实力](https://youtu.be/cCpErV7To2o) [LLM training part1](https://drive.google.com/file/d/1myvHjoeFOpIl1uGU9H1t4OpDErkhF0zO/view) [LLM training part1](https://docs.google.com/presentation/d/11qJGo3TnKKvkQL5yVN3RB-NQtXnrxZOG/edit?usp=sharing&ouid=115046073158939078465&rtpof=true&sd=true)
+  * [ ] [第7讲：大型语言模型修练史 — 第二阶段: 名师指点，发挥潜力 (兼谈对 ChatGPT 做逆向工程与 LLaMA 时代的开始)](https://youtu.be/Q9cNkUPXUB8) [LLM training part2](https://drive.google.com/file/d/1SOXBQhsC_L6aHXcLx2rltaDdcO6N2FmJ/view)  [LLM training part2](https://docs.google.com/presentation/d/1V3AiL0EJ-Bzp9aF2vAINHo5GuS22p9RN/edit?usp=sharing&ouid=115046073158939078465&rtpof=true&sd=true)
+
+* 评估生成式AI & 道德议题
+  * [ ] [第8讲：大型语言模型修练史 — 第三阶段: 参与实战，打磨技巧 (Reinforcement Learning from Human Feedback, RLHF)](https://youtu.be/v12IKvF6Cj8) [LLM training part3](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0412/0412_LLMtraining_part3.pdf) [LLM training part3](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0412/0412_LLMtraining_part3.pptx)  
+  * [ ] [第9讲：以大型语言模型打造的AI Agent](https://youtu.be/bJZTJ7MjYqg) [agent](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0412/0412_agent.pdf) [agent](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0412/0412_agent.pptx) @王琦
+ 
+ * Transformer & 生成式AI的可解释性
+   * [ ] [第10讲：今日的语言模型是如何做文字接龙的 — 浅谈Transformer](https://youtu.be/uhNsUCb2fJI) [explain](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0503/0503_explain.pdf) [explain](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0503/0503_explain.pptx)  
+   * [ ] [第11讲：大型语言模型在“想”什么呢？ — 浅谈大型语言模型的可解释性](https://youtu.be/rZzfqkfZhY8) [transformer](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0503/0503_transformer.pdf) [transformer](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0503/0503_transformer.pptx)
+* 评估生成式AI & 道德议题
+  * [ ] [第12讲：浅谈检定大型语言模型能力的各种方式](https://youtu.be/Hk8Z0uhmWg4)  [evaluation](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0510/0510_evaluation.pdf)  [evaluation](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0510/0510_evaluation.pptx) 
+  * [ ] [第13讲：浅谈大型语言模型相关的安全性议题 (上)](https://youtu.be/MSnvknLywUc) [ethical](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0510/0510_ethical.pdf) [ethical](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0510/0510_ethical.pptx)
+* 生成策略	
+  * [ ] [第14讲：浅谈大型语言模型相关的安全性议题 (下) — 欺骗大型语言模型](https://youtu.be/CNTondxaguo)  [injection](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0517/0517_injection.pdf)  [injection](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0517/0517_injection.pptx)
+  * [ ] [第15讲：为什么语言模型用文字接龙，图片生成不用像素接龙呢？— 浅谈生成式人工智慧的生成策略](https://youtu.be/QbwQR9sjWbs)   
+  * [ ] [第16讲：可以加速所有语言模型生成速度的神奇外挂 — Speculative Decoding](https://youtu.be/MAbGgsWKrg8)
+   * [strategy](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0517/0517_strategy.pdf) [strategy](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0517/0517_strategy.pptx)
+* 影像的生成式AI	
+  * [ ] [第17讲：有关影像的生成式AI (上) — AI 如何产生图片和影片 (Sora 背后可能用的原理)](https://youtu.be/5H2bVEmYDNg)
+  * [ ] [第18讲：有关影像的生成式AI (下) — 快速导读经典影像生成方法 (VAE, Flow, Diffusion, GAN) 以及与生成的影片互动](https://youtu.be/OYN_GvAqv-A)
+  *  [vision](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0531/0531_vision.pdf)  [vision](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0531/0531_vision.pptx)
+* GPT-4o	
+  * [ ] [GPT-4o 背后可能的语音技术猜测](https://youtu.be/CgQ3lUOpXgc)  [GPT-4o](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/extra/gpt4o.pdf)  [GPT-4o](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/extra/gpt4o.pptx)
+ 
+        
+
+
+<!--
+* 课程内容说明 @王琦
+
   * [x] [課程規則](https://youtu.be/vCxyd_S4R24)  [course](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0223/0223_course.pdf)  [course](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0223/0223_course.pptx)
 
   * [x] [第0講：課程說明](https://youtu.be/AVIKFXLCPY8)
@@ -27,6 +73,7 @@
 
 * 生成策略＆從專才到通才 @康婧淇
   * [ ] [第4講：訓練不了人工智慧？你可以訓練你自己 (中)](https://youtu.be/lwe3_x50_uw)  [prompt part2](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0308/0308_prompt_part2.pdf) [prompt part2](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0308/0308_prompt_part2.pptx)
+  -->
 
 
 ## 扩展资源
