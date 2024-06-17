@@ -9,7 +9,7 @@
 
 地址：https://github.com/datawhalechina/leegenai-tutorial/releases
 
-国内地址(推荐国内读者使用)：链接: https://pan.baidu.com/s/1pcqYDbg9sJWPtxfAdVzOqw 提取码: hsi9 
+国内地址(推荐国内读者使用)：链接: https://pan.baidu.com/s/16y21su2nEVfR9ZNiq2MiNg 提取码: gh7q
 
 ## 内容介绍
 
