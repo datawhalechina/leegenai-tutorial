@@ -48,11 +48,11 @@
   * [ ] [第15讲：为什么语言模型用文字接龙，图片生成不用像素接龙呢？— 浅谈生成式人工智慧的生成策略](https://youtu.be/QbwQR9sjWbs)   
   * [ ] [第16讲：可以加速所有语言模型生成速度的神奇外挂 — Speculative Decoding](https://youtu.be/MAbGgsWKrg8)
    * [strategy](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0517/0517_strategy.pdf) [strategy](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0517/0517_strategy.pptx)
-* 影像的生成式AI	
+* 影像的生成式AI	@杨毅远
   * [ ] [第17讲：有关影像的生成式AI (上) — AI 如何产生图片和影片 (Sora 背后可能用的原理)](https://youtu.be/5H2bVEmYDNg)
   * [ ] [第18讲：有关影像的生成式AI (下) — 快速导读经典影像生成方法 (VAE, Flow, Diffusion, GAN) 以及与生成的影片互动](https://youtu.be/OYN_GvAqv-A)
   *  [vision](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0531/0531_vision.pdf)  [vision](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0531/0531_vision.pptx)
-* GPT-4o	
+* GPT-4o	@杨毅远
   * [ ] [GPT-4o 背后可能的语音技术猜测](https://youtu.be/CgQ3lUOpXgc)  [GPT-4o](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/extra/gpt4o.pdf)  [GPT-4o](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/extra/gpt4o.pptx)
  
 
