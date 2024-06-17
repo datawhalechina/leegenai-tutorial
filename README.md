@@ -26,7 +26,7 @@
   * [x] [第3讲：训练不了人工智慧吗？你可以训练你自己](https://youtu.be/A3Yx35KrSN0)  [prompt part1](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0301/0301_prompt_part1.pdf) [prompt part1](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0301/0301_prompt_part1.pptx)
 
 * 生成策略＆从专才到通才 @康婧淇
-  * [ ] [第4讲：训练不了人工智慧？你可以训练你自己 (中)](https://youtu.be/lwe3_x50_uw)  [prompt part2](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0308/0308_prompt_part2.pdf) [prompt part2](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0308/0308_prompt_part2.pptx)
+  * [x] [第4讲：训练不了人工智慧？你可以训练你自己 (中)](https://youtu.be/lwe3_x50_uw)  [prompt part2](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0308/0308_prompt_part2.pdf) [prompt part2](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0308/0308_prompt_part2.pptx)
 
 * 深度学习 & Transformer
   * [ ] [第5讲：训练不了人工智慧？你可以训练你自己 (下) — 让语言彼此合作，把一个人活成一个团队](https://youtu.be/inebiWdQW-4)  [prompt part3](https://drive.google.com/file/d/1dMxMAewRtcUM2xktVm77txSk1leepgD1/view) [prompt part3](https://docs.google.com/presentation/d/1IY1izDUtRBTD9ATyObucetJZOU6koq3-/edit?usp=sharing&ouid=115046073158939078465&rtpof=true&sd=true)  
@@ -55,26 +55,6 @@
 * GPT-4o	
   * [ ] [GPT-4o 背后可能的语音技术猜测](https://youtu.be/CgQ3lUOpXgc)  [GPT-4o](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/extra/gpt4o.pdf)  [GPT-4o](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/extra/gpt4o.pptx)
  
-        
-
-
-<!--
-* 课程内容说明 @王琦
-
-  * [x] [課程規則](https://youtu.be/vCxyd_S4R24)  [course](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0223/0223_course.pdf)  [course](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0223/0223_course.pptx)
-
-  * [x] [第0講：課程說明](https://youtu.be/AVIKFXLCPY8)
-
-  * [x] [第1講：生成式AI是什麼？](https://youtu.be/JGtqpQXfJis)  [intro gai](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0223/0223_intro_gai.pdf)  [intro gai](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0223/0223_intro_gai.pptx)
-
-* 提示工程 ＆ Al 代理人 @杨毅远
-  * [x] [第2講：今日的生成式人工智慧厲害在哪裡？從「工具」變為「工具人」](https://youtu.be/glBhOQ1_RkE) [universal](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0301/0301_universal.pdf)  [universal](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0301/0301_universal.pptx)
-  * [x] [第3講：訓練不了人工智慧嗎？你可以訓練你自己](https://youtu.be/A3Yx35KrSN0)  [prompt part1](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0301/0301_prompt_part1.pdf) [prompt part1](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0301/0301_prompt_part1.pptx)
-
-* 生成策略＆從專才到通才 @康婧淇
-  * [ ] [第4講：訓練不了人工智慧？你可以訓練你自己 (中)](https://youtu.be/lwe3_x50_uw)  [prompt part2](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0308/0308_prompt_part2.pdf) [prompt part2](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0308/0308_prompt_part2.pptx)
-  -->
-
 
 ## 扩展资源
 - 对**深度学习**感兴趣的读者，可阅读[李宏毅深度学习教程](https://github.com/datawhalechina/leedl-tutorial)
