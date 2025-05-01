@@ -33,18 +33,18 @@
   * [ ] [第6讲：大型语言模型修练史 — 第一阶段: 自我学习，累积实力](https://youtu.be/cCpErV7To2o) [LLM training part1](https://drive.google.com/file/d/1myvHjoeFOpIl1uGU9H1t4OpDErkhF0zO/view) [LLM training part1](https://docs.google.com/presentation/d/11qJGo3TnKKvkQL5yVN3RB-NQtXnrxZOG/edit?usp=sharing&ouid=115046073158939078465&rtpof=true&sd=true)
   * [ ] [第7讲：大型语言模型修练史 — 第二阶段: 名师指点，发挥潜力 (兼谈对 ChatGPT 做逆向工程与 LLaMA 时代的开始)](https://youtu.be/Q9cNkUPXUB8) [LLM training part2](https://drive.google.com/file/d/1SOXBQhsC_L6aHXcLx2rltaDdcO6N2FmJ/view)  [LLM training part2](https://docs.google.com/presentation/d/1V3AiL0EJ-Bzp9aF2vAINHo5GuS22p9RN/edit?usp=sharing&ouid=115046073158939078465&rtpof=true&sd=true)
 
-* 评估生成式AI & 道德议题
+* 评估生成式AI & 道德议题 @王琦
   * [ ] [第8讲：大型语言模型修练史 — 第三阶段: 参与实战，打磨技巧 (Reinforcement Learning from Human Feedback, RLHF)](https://youtu.be/v12IKvF6Cj8) [LLM training part3](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0412/0412_LLMtraining_part3.pdf) [LLM training part3](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0412/0412_LLMtraining_part3.pptx)  
   * [ ] [第9讲：以大型语言模型打造的AI Agent](https://youtu.be/bJZTJ7MjYqg) [agent](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0412/0412_agent.pdf) [agent](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0412/0412_agent.pptx) @王琦
  
- * Transformer & 生成式AI的可解释性
+ * Transformer & 生成式AI的可解释性 @江季
    * [ ] [第10讲：今日的语言模型是如何做文字接龙的 — 浅谈Transformer](https://youtu.be/uhNsUCb2fJI) [explain](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0503/0503_explain.pdf) [explain](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0503/0503_explain.pptx)  
    * [ ] [第11讲：大型语言模型在“想”什么呢？ — 浅谈大型语言模型的可解释性](https://youtu.be/rZzfqkfZhY8) [transformer](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0503/0503_transformer.pdf) [transformer](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0503/0503_transformer.pptx)
-* 评估生成式AI & 道德议题
-  * [ ] [第12讲：浅谈检定大型语言模型能力的各种方式](https://youtu.be/Hk8Z0uhmWg4)  [evaluation](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0510/0510_evaluation.pdf)  [evaluation](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0510/0510_evaluation.pptx) 
-  * [ ] [第13讲：浅谈大型语言模型相关的安全性议题 (上)](https://youtu.be/MSnvknLywUc) [ethical](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0510/0510_ethical.pdf) [ethical](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0510/0510_ethical.pptx)
-* 生成策略	
-  * [ ] [第14讲：浅谈大型语言模型相关的安全性议题 (下) — 欺骗大型语言模型](https://youtu.be/CNTondxaguo)  [injection](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0517/0517_injection.pdf)  [injection](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0517/0517_injection.pptx)
+* 评估生成式AI & 道德议题 @康婧淇
+  * [x] [第12讲：浅谈检定大型语言模型能力的各种方式](https://youtu.be/Hk8Z0uhmWg4)  [evaluation](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0510/0510_evaluation.pdf)  [evaluation](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0510/0510_evaluation.pptx) 
+  * [x] [第13讲：浅谈大型语言模型相关的安全性议题 (上)](https://youtu.be/MSnvknLywUc) [ethical](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0510/0510_ethical.pdf) [ethical](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0510/0510_ethical.pptx)
+  * [x] [第14讲：浅谈大型语言模型相关的安全性议题 (下) — 欺骗大型语言模型](https://youtu.be/CNTondxaguo)  [injection](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0517/0517_injection.pdf)  [injection](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0517/0517_injection.pptx)
+* 生成策略	@江季
   * [ ] [第15讲：为什么语言模型用文字接龙，图片生成不用像素接龙呢？— 浅谈生成式人工智慧的生成策略](https://youtu.be/QbwQR9sjWbs)   
   * [ ] [第16讲：可以加速所有语言模型生成速度的神奇外挂 — Speculative Decoding](https://youtu.be/MAbGgsWKrg8)
    * [strategy](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0517/0517_strategy.pdf) [strategy](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0517/0517_strategy.pptx)
