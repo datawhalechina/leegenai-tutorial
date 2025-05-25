@@ -36,7 +36,7 @@
 * 评估生成式AI & 道德议题 @王琦
   * [x] [第8讲：大型语言模型修练史 — 第三阶段: 参与实战，打磨技巧 (Reinforcement Learning from Human Feedback, RLHF)](https://youtu.be/v12IKvF6Cj8) [LLM training part3](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0412/0412_LLMtraining_part3.pdf) [LLM training part3](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0412/0412_LLMtraining_part3.pptx)  
   * [x] [第9讲：以大型语言模型打造的AI Agent](https://youtu.be/bJZTJ7MjYqg) [agent](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0412/0412_agent.pdf) [agent](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0412/0412_agent.pptx) @王琦
-  * [ ] [【生成式AI時代下的機器學習(2025)】第二講：一堂課搞懂 AI Agent 的原理 ](https://www.youtube.com/watch?v=M2Yg1kwPpts) [ppt](https://docs.google.com/presentation/d/1kTxukwlmx2Sc9H7aGPTiNiPdk4zN_NoH)
+  * [x] [【生成式AI時代下的機器學習(2025)】第二講：一堂課搞懂 AI Agent 的原理 ](https://www.youtube.com/watch?v=M2Yg1kwPpts) [ppt](https://docs.google.com/presentation/d/1kTxukwlmx2Sc9H7aGPTiNiPdk4zN_NoH)
  
  * Transformer & 生成式AI的可解释性 @江季
    * [ ] [第10讲：今日的语言模型是如何做文字接龙的 — 浅谈Transformer](https://youtu.be/uhNsUCb2fJI) [explain](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0503/0503_explain.pdf) [explain](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0503/0503_explain.pptx)  
