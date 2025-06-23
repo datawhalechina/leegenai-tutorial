@@ -55,6 +55,8 @@
   *  [vision](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0531/0531_vision.pdf)  [vision](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0531/0531_vision.pptx)
 * GPT-4o	@杨毅远
   * [x] [GPT-4o 背后可能的语音技术猜测](https://youtu.be/CgQ3lUOpXgc)  [GPT-4o](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/extra/gpt4o.pdf)  [GPT-4o](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/extra/gpt4o.pptx)
+  * [x] [【生成式AI時代下的機器學習(2025)】第十一講 模型融合](https://www.youtube.com/watch?v=jFUwoCkdqAo)  [ppt](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2025-course-data/merging.pptx)  [ pdf](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2025-course-data/merging.pdf)
+  * [x] [【生成式AI時代下的機器學習(2025)】第八講 reason_shorter](https://youtu.be/ip3XnTpcxoA) [ppt](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2025-course-data/reason_shorter.pptx) / [ pdf](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2025-course-data/reason_shorter.pdf)
  
 
 ## 扩展资源
