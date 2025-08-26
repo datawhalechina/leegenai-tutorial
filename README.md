@@ -39,15 +39,15 @@
   * [x] [【生成式AI時代下的機器學習(2025)】第二講：一堂課搞懂 AI Agent 的原理 ](https://www.youtube.com/watch?v=M2Yg1kwPpts) [ppt](https://docs.google.com/presentation/d/1kTxukwlmx2Sc9H7aGPTiNiPdk4zN_NoH)
  
  * Transformer & 生成式AI的可解释性 @江季
-   * [ ] [第10讲：今日的语言模型是如何做文字接龙的 — 浅谈Transformer](https://youtu.be/uhNsUCb2fJI) [explain](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0503/0503_explain.pdf) [explain](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0503/0503_explain.pptx)  
-   * [ ] [第11讲：大型语言模型在“想”什么呢？ — 浅谈大型语言模型的可解释性](https://youtu.be/rZzfqkfZhY8) [transformer](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0503/0503_transformer.pdf) [transformer](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0503/0503_transformer.pptx)
+   * [x] [第10讲：今日的语言模型是如何做文字接龙的 — 浅谈Transformer](https://youtu.be/uhNsUCb2fJI) [explain](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0503/0503_explain.pdf) [explain](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0503/0503_explain.pptx)  
+   * [x] [第11讲：大型语言模型在“想”什么呢？ — 浅谈大型语言模型的可解释性](https://youtu.be/rZzfqkfZhY8) [transformer](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0503/0503_transformer.pdf) [transformer](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0503/0503_transformer.pptx)
 * 评估生成式AI & 道德议题 @康婧淇
   * [x] [第12讲：浅谈检定大型语言模型能力的各种方式](https://youtu.be/Hk8Z0uhmWg4)  [evaluation](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0510/0510_evaluation.pdf)  [evaluation](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0510/0510_evaluation.pptx) 
   * [x] [第13讲：浅谈大型语言模型相关的安全性议题 (上)](https://youtu.be/MSnvknLywUc) [ethical](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0510/0510_ethical.pdf) [ethical](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0510/0510_ethical.pptx)
   * [x] [第14讲：浅谈大型语言模型相关的安全性议题 (下) — 欺骗大型语言模型](https://youtu.be/CNTondxaguo)  [injection](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0517/0517_injection.pdf)  [injection](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0517/0517_injection.pptx)
 * 生成策略	@江季
-  * [ ] [第15讲：为什么语言模型用文字接龙，图片生成不用像素接龙呢？— 浅谈生成式人工智慧的生成策略](https://youtu.be/QbwQR9sjWbs)   
-  * [ ] [第16讲：可以加速所有语言模型生成速度的神奇外挂 — Speculative Decoding](https://youtu.be/MAbGgsWKrg8)
+  * [x] [第15讲：为什么语言模型用文字接龙，图片生成不用像素接龙呢？— 浅谈生成式人工智慧的生成策略](https://youtu.be/QbwQR9sjWbs)   
+  * [x] [第16讲：可以加速所有语言模型生成速度的神奇外挂 — Speculative Decoding](https://youtu.be/MAbGgsWKrg8)
    * [strategy](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0517/0517_strategy.pdf) [strategy](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0517/0517_strategy.pptx)
 * 影像的生成式AI	@杨毅远
   * [x] [第17讲：有关影像的生成式AI (上) — AI 如何产生图片和影片 (Sora 背后可能用的原理)](https://youtu.be/5H2bVEmYDNg)
