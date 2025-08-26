@@ -41,6 +41,7 @@
  * Transformer & 生成式AI的可解释性 @江季
    * [x] [第10讲：今日的语言模型是如何做文字接龙的 — 浅谈Transformer](https://youtu.be/uhNsUCb2fJI) [explain](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0503/0503_explain.pdf) [explain](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0503/0503_explain.pptx)  
    * [x] [第11讲：大型语言模型在“想”什么呢？ — 浅谈大型语言模型的可解释性](https://youtu.be/rZzfqkfZhY8) [transformer](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0503/0503_transformer.pdf) [transformer](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0503/0503_transformer.pptx)
+   * [x] [【生成式AI時代下的機器學習(2025)】第七講：AI 推理能力哪裡來	](https://www.youtube.com/watch?v=bJFtcwLSNxI) [ppt](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2025-course-data/reasoning.pptx) / [ pdf](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2025-course-data/reasoning.pdf)_
 * 评估生成式AI & 道德议题 @康婧淇
   * [x] [第12讲：浅谈检定大型语言模型能力的各种方式](https://youtu.be/Hk8Z0uhmWg4)  [evaluation](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0510/0510_evaluation.pdf)  [evaluation](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0510/0510_evaluation.pptx) 
   * [x] [第13讲：浅谈大型语言模型相关的安全性议题 (上)](https://youtu.be/MSnvknLywUc) [ethical](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0510/0510_ethical.pdf) [ethical](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0510/0510_ethical.pptx)
