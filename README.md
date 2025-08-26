@@ -46,6 +46,9 @@
   * [x] [第12讲：浅谈检定大型语言模型能力的各种方式](https://youtu.be/Hk8Z0uhmWg4)  [evaluation](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0510/0510_evaluation.pdf)  [evaluation](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0510/0510_evaluation.pptx) 
   * [x] [第13讲：浅谈大型语言模型相关的安全性议题 (上)](https://youtu.be/MSnvknLywUc) [ethical](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0510/0510_ethical.pdf) [ethical](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0510/0510_ethical.pptx)
   * [x] [第14讲：浅谈大型语言模型相关的安全性议题 (下) — 欺骗大型语言模型](https://youtu.be/CNTondxaguo)  [injection](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0517/0517_injection.pdf)  [injection](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0517/0517_injection.pptx)
+  * [x] [【生成式AI時代下的機器學習(2025)】第六講：生成式人工智慧的後訓練(Post-Training)與遺忘問題
+](https://www.youtube.com/watch?v=Z6b5-77EfGk) [ppt](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2025-course-data/post_training.pptx) / [ pdf](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2025-course-data/post_training.pdf)
+  * [x] [【生成式AI時代下的機器學習(2025)】第九講 reason_eval](https://youtu.be/s266BzGNKKc) [ppt](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2025-course-data/reason_eval.pptx) / [ pdf](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2025-course-data/reason_eval.pdf)
 * 生成策略	@江季
   * [x] [第15讲：为什么语言模型用文字接龙，图片生成不用像素接龙呢？— 浅谈生成式人工智慧的生成策略](https://youtu.be/QbwQR9sjWbs)   
   * [x] [第16讲：可以加速所有语言模型生成速度的神奇外挂 — Speculative Decoding](https://youtu.be/MAbGgsWKrg8)
